@@ -6,11 +6,13 @@ public class Sample2 {
 		// TODO Auto-generated method stub
 
 		int i=1;
-		while(i<10)
+		while(i<110)
 		{
 			System.out.println(i);
 			i++;
 		}
+		
+		System.out.println("IAM NEW HERE");
 	}
 
 }
